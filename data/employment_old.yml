@@ -1,0 +1,187 @@
+name: Experience 
+
+source:
+  - prof: Senior Solution Director
+    place: HCL Technologies, The Netherlands and Western Europe
+    time: May, 2017 to Present
+    description: > 
+                  Senior Solution Director working cross verticals and responsible for our customer solutions. Work heavily with our Center of Excellence and implementation teams for reusable scalable all layer stacks.
+    description1: >
+                  Public/Private Cloud enablement, Microservices on immutable infrastructures, container standards/implementations for European conglomerates.
+    description2: >
+                  Industry solution implementations for stacks span Banking, Financial services and Insurance, Supply Chain and manufacturing.
+    description3: >
+                  Dwai also enables HPC/GPU immutable compute fabrics for customers across the world working on latest scientific computing and simulations including DNN toolkits for fast reinforcement learning.
+    description4: >
+                  Assist Go To market teams.
+    description5: >
+                  Focus on Standard Infrastructure as a code for immutable scalable infrastructures for our customers.
+
+  - prof: Cloud Solution Architect
+    place: Microsoft B.V., The Netherlands
+    time: January, 2016 to April, 2017
+    description: >
+                  Specialized in HPC and GPU Computes for Energy upstream industry, contributed heavily to IaaC topology automation for Azure and NVIDIA as opensource. Worked on early Docker Data Center Automated topologies and contributed for Azure opensource.
+    description1: >
+                  Created and maintained Azure github repositories for K80 (GK210 Duo) GPU Compute Auto Linux clusters for CUDA non graphical apps.
+    description2: >
+                  HPC Big computes RDMA/IB Auto linux clusters for Intel MPI on Azure.
+                  These are immutable, intelligent compute grids with nvdia docker options and configurable soft RAID0.
+    description3: >
+                  Created and maintained Azure github repository for M60 Graphical 3D Apps over PCoIP with latest Windows NVIDIA Azure Skus.
+    description4: >
+                  Maintained the Docker for Azure with OMS (Operational Management Suite) repository  with 17.0x-CE for monitoring the dockerized cloud infrastructure and first put up the automated Docker Datacenter on the Engine 1.13.x Private beta on a public cloud (Azure).
+    description5: >
+                  Explore the repositories in the github media link with the pinned repositories @ https://github.com/dwaiba.
+
+  - prof: Principal, Solution Architecture
+    place: Exact Software, The Netherlands
+    time: August, 2015 to November, 2015
+    description: R&D on future enabling Exact product portfolio.
+    description1: >
+                   Leading the Research and prototyping of a new fast, cloud enabled responsive avatar of the stable and most successful of Exact's back office ERP System.
+    description2: >
+                   Architect and program writer for invoking and Instrumenting Legacy Code base via decoupled Web Interceptors and a hyper Scalable COM Server.
+    description3: >
+                   Creating and implementing Architecture Deployment Blue prints for the range of Exact Product Lines on public, private and Hybrid Cloud systems.
+    description4: >
+                   Leading outsourced Data Center Choice and Implementation/Redesign initiatives for private/public Cloud.
+    description5: >
+                   Product Management for reducing market churn in older product lines.
+  
+  - prof: Senior Consultant
+    place: Enable-U B.V., The Netherlands and African Continent.
+    time: February 2013 to July, 2015
+    description: >
+                  Enable-U enables different businesses get a better grip on their IT Architecture. The company operations span across Benelux including the Dutch Government, European Instituitions, in South Africa and in the Middle-east. We provided and implemented automated API Management, SOA Governance solutions, Perimeter Appliance Security and Business Transformation Solutions via product stacks as well as developed product solutions ourselves. Some of Dwai's work @ Enable-U are as follows-
+    description1: >
+                  Created, implemented and productized the Enable-U Middleware AutoDiscovery and Governance as a High Traction flagship integration product with an essential team of two. Systinet Dev for Various Governance as a discovery engine- https://www.enable-u.com/portfolio-item/enable-u-2discover/. 
+    description2: >
+                  Architect for Ministry of Devolution and Planning Management (HUDUMA), office of the President, Republic of Kenya where the vision is to implement a full scale eGovernance operating model across Kenya using a classic Federated Hub and Spoke model featuring flagship products from Oracle, TIBCO and Amazon Web Services.
+    description3: >
+                  Implemented SOA Governance for Eurocontrol (EU Air Traffic Management) and also acted as Security Consultant for Eurocontrol for implementing a layered Security model. Dwai is also the primary Architect for the new Enable-U 2 Orchestrate stack for the Dutch Government for seamless message transformations, perimeter security and service/API governance. This is deployed as per federated patterns of various Government institutions following API Maturity levels.
+    description4: >
+                  For a Semi Governmental Agency for Geo Mapping in The Netherlands, providing opendata APIs for large GEO datasets, Dwai advised and implemented a new automated Data center cross cloud tooling using vagrant and puppet. Sets up and Administers Enable-U Hypervisors including VMWare ESX and Hyper-V with associated automations via tools like vagrant, chef and Nagios. Also created custom ruby plugins for Vagrant.                 
+    description5: >
+                   Created, developed, implemented and productized an automated Monitoring Infrastructure on AWS using EC2 SDK and Nagios for OneGini – a security product startup in The Netherlands. This small product set leverages automatic AWS Infra unlike existing commercialized and end2end Advanced Nagios EC2 Solutions.
+
+  - prof: Domain Solution Architect
+    place: Canon Europa N.V., The Netherlands
+    time: October, 2011 to January, 2013
+    description: >
+                  Domain Solution Architect for Integration and Data for Canon Europa N.V.
+    description1: >
+                  Architect for Integration and Data @ Canon Europa.
+    description2: >
+                  Design authority for Integration, data and B2B.
+    description3: >
+                  Designing, building, implementing and managing the Canon landscape in WebSphere, Informatica, Oracle SOA Suite, virtual Infrastructure.
+    description4: >
+                  Establishing DevOps and automation/scaling for Middleware for platform stabilization.
+    description5: >
+                  Building the Centre Of Excellence.
+
+
+  - prof: Technical Architect
+    place: TMNS B.V., The Netherlands
+    time: April, 2009 to October, 2011
+    description: >
+                  Worked with TMNS B.V as  technical architect. TMNS B.V.,  now part of the Devoteam is a well respected System Integratori/system srchitects' firm in The Netherlands and Switzerland.
+    description1: >
+                  Worked on Enterprise Architecture, open systems, Oracle, WebSphere, TIBCO, Progress Sonic, Apama, Mule, JBoss, Apache projects.
+    description2: >
+                  Consulted, designed and developed for various Dutch and Swiss businesses in the SOA, BPM and CEP space.
+    description3: >
+                  Architected and programmed a successful CEP based Automated online Ad optimization platform.
+    description4: >
+                  Establishing DevOps and automation/scaling for Middleware for platform stabilization.
+    description5: >
+                  Set up large, high performing and scalable middleware infrastructure especially using VMWare, Amazon EC2 and virtualization techniques. Defined roadmaps for autonomic computing and implemented full scale AWS solutions.
+
+    
+  - prof: Technical Architect
+    place: HCL Technologies, India and the World.
+    time: June, 2007 to February, 2009
+    description: >
+                  Was one of the first technical architects for HCL Technologies. Had a very successful stint with great business growth both for products and solutions.
+    description1: >
+                  Worked primarily with Cisco AON (Application-Oriented Network), product enhancements, SaaS gateways and other solutions.
+                  CISCO AON is a network-embedded/ appliance based middleware.
+                  Led a team of developers.
+                  We developed some of the first Enterprise class SaaS device connectors.
+    description2: >
+                  Defined end to end detailed transformation solutions and laid out numerous successful Middleware product choices / implementations for a large range of customers around the world using varied stacks from opensource ESBs, Integration appliances to Commercial SOA stacks.
+    description3: >
+                  Built a successful SOA Governance model for the Insurance and Investments division of a large British banking conglomerate.
+    description4: >
+                  Led go to market for Cisco AON pilots in Israel with team.
+    description5: >
+                  Created Scalable Infrastrutes for lab maintenance, WebSphere topologies and Oracle SOA Suite topologies on various hypervisors.
+
+
+  - prof: Senior Member Technical Staff
+    place: Oracle Server Technologies, India.
+    time: April, 2006 to June, 2007
+    description: Oracle’s SOA Suite 10.1.3.x and Fabric (11g) Dev team for Oracle Server Technologies.
+    description1: >
+                   Worked primarily with UDDI, BPEL Engine and original Oracle ESM on oc4j.(10.1.3.1). 
+    description2: >
+                  Worked on Fabric with Weblogic and SOA Suite Composites including mediator.(11g)
+    description3: >
+                  Various feature injections as part of the process.
+    description4: >
+                  Topology pattern deployments in the labs.
+    description5: >
+                  Assist SWAT Teams.
+
+    
+  - prof: Engineer
+    place: IBM, India and the World.
+    time: November, 2003 to April, 2006
+    description: >
+                  Worked with almost all products of the WebSphere stack,
+                  large AIX base setups, developing and consulting for various customers across the globe.
+    description1: >
+                  Worked in 5 continents for IBM.
+    description2: >
+                   Highlights were the largest B2B Gateway implementation in the world for Nestle at their HQ in Vevey. This was on WebSphere Data Interchange.
+    description3: >
+                   Submitted various patterns for banking channel implementations. Worked as security specialist for large telecom customers using distros for digital forensics. 
+    description4: >
+                   Worked for Department of Work and Pensions on one of the first Secure SOA Implementations.
+    description5: >
+                   Multi implementations of Tivoli, WebSphere MQ/WebSphere ESB to success.
+
+    
+  - prof: Developer
+    place: Ontrack Systems Ltd., Calcutta, India
+    time: July, 2003 to October, 2003
+    description: Developer of an end to end Distributed Logistics systems for Japanese and British customers.
+    description1: >
+                   Dwai worked in the eSCM (e-Supply Chain Management) initiative which aimed at integrating Mitsui & Company (UK) plc’s Supply chain model along with the process partners.
+    description2: >
+                   The main motivation was to move towards zero latency in transparent information sharing primarily via eDocuments.
+    description3: >
+                   Dwai defined the use cases of the eSCM product.
+    description4: >
+                   Implement Design patterns, the build systems and  runtime products like JBoss, the linux flavors, java packages to use.
+    description5: >
+                   Develop the core modules.
+
+    
+    
+  - prof: C++/Web developer
+    place: Various, Pan Indian sub-continent.
+    time: 2001 to July, 2003
+    description: Worked as a java/c++/web programmer and linux administrator.
+    description1: >
+                   Worked mostly on messaging systems, large linux based topologies, web development and C++ routines.
+    description2: >
+                   Both Banking customers and product development.
+    description3: >
+                   Extensive use of WebLogic and Sun OS, besides standard linux flavours.
+    description4: >
+                   Implementation of various OOPs design patterns.
+    description5: >
+                   Work with initial VT-x.
+

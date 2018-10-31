@@ -1,0 +1,30 @@
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+baseurl = "/"
+googleAnalytics = ""
+theme = "hugo-vitae"
+
+[params]
+  author = "Dwai Banerjee"
+  title = "Dwai Banerjee's Resume"
+  description = "Dwai Banerjee's Awesome Resume"
+  #avatar = "3b27979.jpg"
+  avatar = "hcl.gif"
+  #email = "mail Dwai / "
+  email_full = "mailto:dwaipayan.banerjee@hcl.com?subject=Got your resume again"
+  #website = "Resume pdf download"
+  website_full = "https://awesome-engelbart-2c4888.netlify.com/img/dwai.pdf"
+  github = "dwaiba"
+  #twitter = "cloudgeario"
+  linkedin = "dbanerj"
+  #tel = "+44 0000 000000"
+  #tel_full = "+4400000000"
+  google_maps = "https://www.google.com/maps/place/Woudlaan+Zoetermeer"
+  #address = "44 Perth Street"
+  #postcode = "EH3 5BL"
+  city = "Zoetermeer"
+  country = "The Netherlands"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []

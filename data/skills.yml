@@ -1,0 +1,39 @@
+name: Skills
+title: Rated
+
+source:
+  - name: [Large Digital Transformations, Virtualization, Topology Patterns, Engineering Labs Automation, Engineering Team Management, Product Management, Solutioning, Distributed Program Writing, Micro Services Architecture, Container Management Platforms, HPC Fabrics, GPU Usage and provisioning, RNN using GPU for Scientific Applications, Business Budgeting, Center of Excellence Driving, Integration Vendor Stacks]
+    stars: 4
+
+  - name: [Intel Xeon Phi Coprocessors, Intel Parallel Studio XE, ITAC, Intel Lustre, GlusterFS, Mellanox 6th Generation Device Drivers, DAPL, Infiniband, RoCEv2, Intel Compilers, Intel MPI, LINPACK, IMB and various other benchmarking, MPI 2.2/3.0/3.1, NUMA, mpicc/mpiicc/icc/ifort, CUDA/CUDAnn, OFED, Open MPI, Torque (Maui/MOAB), SLURM, NVIDIA DIGITS, Toolkits like CNTK, Caffe2, Keras, Kubeflow and Tensorflow, nvidia-docker, ROS Kinetic, Catkin]
+    stars: 4
+
+  - name: [C/C++, Shell, Python, Go, node.js, Java EE, Spring Boot, Git, Gerrit]
+    stars: 4
+    
+  - name: [Linux, UNIX, Fedora, RHEL, CentOS, Ubuntu, Custom Kernels, AIX, HP-UX]
+    stars: 5
+     
+  - name: [Cloud overlays, Google Cloud, AWS, Microsoft Azure, Digital Ocean, IBM Bluemix, CloudFoundry, Full scale Templatized deployable immutable cloud solutions, CLIs and Cloud APIs, Scaling, Iaas Clusters, Various PaaS on CSPs]
+    stars: 4
+     
+  - name: [API Management, Apigee Platform with Istio Mixer, 3scale APIcast and API Management, IBM API Management with DataPower Gateway Appliances, Mulesoft API Management with Mule 4.x core/GW, API Security and periphery, API Design, node-red, netflix spring boot, Loopback, WS02, Open Source API Management, Keycloak, CA Layer7, IDM Stacks]
+    stars: 4
+    
+  - name: [Hypervisors, Microvisors,KVM, Hyper-V, VMWare, vagrant, Hashicorp tools and consul]
+    stars: 4
+  
+  - name: [Container Management Platforms, Kubernetes/Heptio/GKE, Azure Kubernetes Service, Helm, Draft, Tiller Server, Charts, Docker Data Center with Universal Control Plane, Swarm Mode, Rancher, rkt, oci, containerd, etcd, zookeeper, Mesosphere, docker plugins, Docker CE, Red hat Openshift, Registries, container pipelines, Jenkins, TeamCity, VSTS, Various CLIs and APIs, Gitlab EE, Ansible for el7 and el6, SonarQube, GlusterFS, Container Native Storage, NVIDIA device plugins for Kubernetes]
+    stars: 4
+    
+  - name: [Middleware and ESB, WebSphere Stack and topologies, WebSphere ESB, Oracle SOA Suite components, JBoss Community and EAP components, Fuse, Mule distributed, Websphere MQ, AMQP, Event Hubs, Software AG Apama Event Monitors]
+    stars: 4
+    
+  - name: [HTML5/CSS3, Javascript, Ruby, Erlang, Perl, SQL, Esql, Various Script frameworks like Apama Event Monitoring Scripts]
+    stars: 3
+    
+  - name: [DB2, Oracle RDBMS ,Oracle RAC with Dataguard, SQL Server, PostgreSQL, Redis, mongodb, HBase]
+    stars: 3
+     
+  - name: [Hadoop Data Platform components, YARN and scheduling, HDFS, Apache Kafka, Apache Phoenix, SparkML, Data Lake Patterns, HDinsights, Livy, Zookeeper, Zepellin, Google BigQuery and Dataproc]
+    stars: 3
